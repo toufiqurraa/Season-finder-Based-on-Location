@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Based on the location of the user this web app will find if there is Summer or Winter 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
